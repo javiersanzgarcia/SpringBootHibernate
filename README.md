@@ -3,7 +3,7 @@
 Simple maintenance Costumer
 ---------------------------
 
-Spring Boot + Hibernate, using MariaDB and Tomcat embebed
+Spring Boot + Hibernate, using MariaDB and embebed Tomcat
 
 Resume of funcionalities:
 
