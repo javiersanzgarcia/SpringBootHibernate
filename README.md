@@ -26,4 +26,4 @@ Example of Endpoints:
 - http://localhost:8080/customer/addCostumerBody
 
 Review application.properties for conection to Database with Maria DB
-(IMPORTANT: Configure Database use like "InnoDB")
+(IMPORTANT: Configure Database engine with "InnoDB")
