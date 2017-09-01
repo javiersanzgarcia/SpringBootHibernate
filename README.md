@@ -1,5 +1,4 @@
 
-
 Simple maintenance Costumer
 ---------------------------
 
@@ -30,6 +29,5 @@ Review application.properties for conection to Database with Maria DB
 
 Next goals:
 
-- Add Update and Delete for complete CRUD system
 - Add Integration test with "Mock Mvc" and "Mockito"
 - Add Unit test with "Mock Mvc" and "Mockito"
